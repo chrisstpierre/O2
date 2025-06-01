@@ -1,6 +1,6 @@
 # O~2~ - A Breath of Fresh Air for Rust Web Development
 
-## TBD: Crate is in development, not yet released
+## TBD: Crate is in development, not yet released. It does not work now.
 
 
 Fixes the fragmented Rust web development space by using composable traits to provide a consistent and ergonomic API for web development. Allows you to build web applications using a set of composable traits that can be mixed and matched to suit your needs.
@@ -16,7 +16,7 @@ To get started with O~2~, add it to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-o2 = "0.1"
+o2 = "0.01"
 ```
 
 Then, you can start building your web application by importing the necessary traits and types from O~2~.
