@@ -4,7 +4,7 @@
 
 
 Fixes the fragmented Rust web development space by using composable traits to provide a consistent and ergonomic API for web development. Allows you to build web applications using a set of composable traits that can be mixed and matched to suit your needs.
-# O~2~ - A Breath of Fresh Air for Rust Web Development
+# O<sub>2<sub/> - A Breath of Fresh Air for Rust Web Development
 # Features
 - **Composable Traits**: Build your web application using composable traits that can be mixed and matched.
 - **Ergonomic API**: Provides a consistent and ergonomic API for web development.
